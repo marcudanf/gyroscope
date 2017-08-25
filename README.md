@@ -1,2 +1,2 @@
-# gyroscope
-Mpu6050 library
+# Gyroscope
+A very simple to use arduino library for MPU6050 gyroscopes
